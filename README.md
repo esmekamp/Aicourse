@@ -1,4 +1,4 @@
-Shared History AI
+## Shared History AI
 
 Building AI course project
 
